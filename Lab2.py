@@ -84,7 +84,3 @@ def returnList2(s, q, c):
             c += 1
     return c
 print(returnList2(myList9, newlist, count))
-
-#цикличный сдвиг -
-#Наименьшее общее кратное -
-#Зробити описи Doc strings для кожної реалізованої функції -
